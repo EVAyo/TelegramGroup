@@ -24,7 +24,7 @@
 |:---:|:---:|:---:|
 | [![@i快搜](https://i.imgur.com/CsCtOBH.png)<br>@i快搜](https://t.me/ikuaisobot?start=7352210715) |  [![@频道转发小助手](https://i.imgur.com/58e8neu.png)<br>@频道转发小助手](https://t.me/tgzfxzsbot) |[![@极搜JiSo](https://i.imgur.com/we9lyse.jpeg)<br>@极搜JiSo](https://t.me/jiso?start=a_6294881820)|
 | [![搜片神器](https://i.imgur.com/SVox0Se.png)<br>搜片神器](https://t.me/soupiansoso)  |  [![色色搜索](https://i.imgur.com/pwNAjvK.png)<br>❤️色色搜索🔞](https://t.me/sesesesousuo) | [![暗网搜索](https://i.imgur.com/woGNZUA.png)<br>暗网搜索](https://t.me/anwangdarknet)|
-| [![中文搜索①](https://i.imgur.com/OWV7rdZ.png)<br>中文搜索①](https://t.me/sousuo20w)  |  [![中文搜索②](https://i.imgur.com/xn0EiEy.png)<br>中文搜索②](https://t.me/qnssking) |[![景福宫](https://i.imgur.com/xqVLMHs.png)<br>景福宫【找妹子】](https://t.me/+bJkN6Cz7WIQ5YjQ9)|
+| [![中文搜索①](https://i.imgur.com/dkYzSij.png)<br>中文搜索①](https://t.me/sosobo2)  |  [![中文搜索②](https://i.imgur.com/xn0EiEy.png)<br>中文搜索②](https://t.me/qnssking) |[![景福宫](https://i.imgur.com/xqVLMHs.png)<br>景福宫【找妹子】](https://t.me/+bJkN6Cz7WIQ5YjQ9)|
 
 </table>
 
@@ -124,10 +124,13 @@ twitter💰nebx.io空投地址:[https://nebx.io/](https://nebx.io/login?v=996539
 | 群管理机器人      | [@GroupHelpBot](https://t.me/GroupHelpBot)       |根据自己群组的需要设定一系列的自动化内容，如欢迎语、跳转到社媒账号或独立站、删除信息、警告用户等  |
 | 群管理机器人      | [@WeGroupRobot](https://t.me/WeGroupRobot)       |专为管理和优化群组聊天体验而设计。它可以帮助群组管理员简化日常管理任务，提高群组的互动质量 |
 | 双向机器人      | [@LivegramBot](https://t.me/LivegramBot)       |可以免费创建属于自己的双向机器人，解决账号无法主动发起会话的问题  |
+| 按钮机器人      | [@PostBot](https://t.me/PostBot)       | 可以在群组或者频道里面编辑按钮控件，用来挂链接或者打广告的神器 |
+| 查特皮皮鸡      | [@ZUOLUOTV_AI_BOT](https://t.me/ZUOLUOTV_AI_BOT)       |基于OpenAI和 Google Cloud AI Platform 的 Anti-Spam机器人，可以有效过滤文字、图片、贴纸等垃圾广告。 |
 | 长消息杀手   | [@LongMessageKillerBot](https://t.me/LongMessageKillerBot)        | 最近长消息炸群很多，使用这个长消息杀手机器人可以防止炸群  |
 | 广告杀手   | [@GuangGaoShaShouBot](https://t.me/GuangGaoShaShouBot)        | 本机器人专业封杀中文广告内容以及广告号 |
 |  频道搬运机器人  | [@msg_get_bot](https://t.me/msg_get_bot?start=K86QAr71)        | 破解频道/群组不允许转发机器人,频道主运营利器|
-|  ID查询机器人  | [@username_to_id_bot](https://t.me/username_to_id_bot)        | 查询用户ID、频道ID、群组ID|
+|  ID查询机器人  | [@username_to_id_bot](https://t.me/username_to_id_bot)        | 查询用户ID、频道ID、群组ID |
+|  ID查询机器人  | [@nminfobot](https://t.me/nminfobot)        | 转发一条聊天信息给我，快速查询对方 ID|
 |  短信轰炸机器人  | [@Carll_Bomb_bot](https://t.me/Carll_Bomb_bot?start=7439567495)        | 短信轰炸机器人，这你爱的人送上“祝福”。让你爱的人，“夜不能寐”|
 
 
@@ -141,7 +144,7 @@ twitter💰nebx.io空投地址:[https://nebx.io/](https://nebx.io/login?v=996539
 | aiso搜索机器人     | [@aiso](https://t.me/aiso?start=telegram_6294881820)  | 查找群组、频道、影视、音乐或机器人。  |
 | 神马索引机器人      | [@smss](https://t.me/smss?start=spread_6294881820)       | 神马索引机器人，可以通过关键词查找  |
 | 中文索引   | [@TeleTop123Bot](https://t.me/TeleTop123Bot?start=6294881820)        | 帮助您找到感兴趣的群组、频道和机器人！      |
-| TON索引     | [TonCnBot](https://t.me/TonCnBot?start=6294881820)       | 帮助您找到感兴趣的群组、频道和机器人！  |
+| TON索引  | [TonCnBot](https://t.me/TonCnBot?start=6294881820)       | 帮助您找到感兴趣的群组、频道和机器人！  |
 
 
 #### 群组抽奖机器人
@@ -448,10 +451,12 @@ twitter💰nebx.io空投地址:[https://nebx.io/](https://nebx.io/login?v=996539
 
 *   币圈日报:[https://t.me/bidaily](https://t.me/bidaily)
 *   币安官方中文群:[https://t.me/BinanceChinese](https://t.me/BinanceChinese)
+*   大漂亮的小伙伴:[https://t.me/giantcutie6688](https://t.me/giantcutie6688)
 *   Vultr 中文社群:[https://t.me/vultr_group](https://t.me/vultr_group)
 *   Newlearner 水群:[https://t.me/NewlearnerGroup](https://t.me/NewlearnerGroup)
 *   科技花:[https://t.me/zaihuachat](https://t.me/zaihuachat)
 *   谷歌交流社区・科技圈:[https://t.me/GoogleFans](https://t.me/GoogleFans)
+*   Bark反馈群:[https://t.me/joinchat/OsCbLzovUAE0YjY1](https://t.me/joinchat/OsCbLzovUAE0YjY1)
 *   逗比根据地:[https://t.me/doubi](https://t.me/doubi)
 *   中文输入法爱好者群:[https://t.me/IME_zhCN](https://t.me/IME_zhCN)
 *   少数派 sspai 社群 非官方:[https://t.me/sspai_group](https://t.me/sspai_group)
