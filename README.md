@@ -36,7 +36,7 @@
 | 搜索群③   | [@jisoubar](https://t.me/jisoubar)            | 极搜吧可以在里面搜索你想要的一切   |
 | 搜索群④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在里面搜索你想要的一切   |
 | 搜索群⑤   | [@kuaisou20w](https://t.me/kuaisou20w)            | 可以在里面搜索你想要的一切   |
-| ❤️色色搜索   | [@seseccavsese](https://t.me/seseccavsese)             | 可以在里面搜索你想要的一切   |
+| 色色搜索   | [@seseccavsese](https://t.me/seseccavsese)             | 可以在里面搜索你想要的一切   |
 | 👚AI去衣机器人	| [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)| 	黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模| 
 | Portals   | [@portals](https://t.me/portals/market?startapp=6294881820)            | Telegram NFT市场最近大热，价格翻了几十倍   |
 | Tonnel_network_bot   | [@Tonnel_network_bot](https://t.me/tonnel_network_bot/gifts?startapp=ref_6294881820)            | Telegram NFT市场最近大热，价格翻了几十倍   |
