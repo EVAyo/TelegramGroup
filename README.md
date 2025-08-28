@@ -79,10 +79,8 @@
 ### 机器人搭建有需要联系:[@tgxiunv](https://t.me/tgxiunv)
 | 项目                                       | 说明                                              | 价格            |
 | ------------------------------------------ | ------------------------------------------------- | --------------- |
-| 按钮机器人                                | [@xiunvanniubot](https://t.me/xiunvanniubot)，使用教程:[视频教程](https://www.youtube.com/watch?v=B3KePS-6bSc)     |    免费          |
 | 修女频道搬运                                | 搬运整个频道10U,自行联系[@tgxiunv](https://t.me/tgxiunv) | 10U   |
 | 自动按钮机器人                                | 使用教程:[视频教程](https://www.youtube.com/watch?v=Wa0DL3Lj1Hs)     |    50U          |
-| 自动上传脚本                                | 提供源码及搭建服务，效果查看：[@dysyg](https://t.me/dysyg)          | 50U             |
  消息提取机器人(破解私密频道无法下载保存转发神器)                                | 提供源码及搭建服务         | 50U             |
 | tdl                          | 电报下载神器搭建,自行联系[@tgxiunv](https://t.me/tgxiunv)，使用教程:[视频教程](https://www.youtube.com/watch?v=h_r1_I6Busk)| 50U或¥300   |
 | 波场靓号生成器(8a、9a、10a等豹子顺子靓号)                         | 电脑有显卡直接跑，跑出来的速度看显卡 | 100U            |
@@ -90,7 +88,6 @@
 | 自动转发频道机器人（文末自定义文案）       | 自动搬运别人频道内容并可自定义文案，效果查看：[@alidriver4k](https://t.me/alidriver4k) | 140U            |
 | 频道导航网站      | 效果查看：[tg10000.com](https://tg10000.com) | ¥200    [搭建教程](https://www.bilibili.com/video/BV13b5izgE28)            |
 | 独角数卡网站      | 效果查看：[shop.tg10000.com](https://shop.tg10000.com) | 单网站:¥150，网站+对接支付:¥300或40U，请准备服务器和域名           |
-| 番号搜索机器人      | 效果查看：[@fanhaosearchbot](https://t.me/fanhaosearchbot) |   源码+搭建:50U    |
 | 彩虹群发、强拉、炒群破解版(送便宜号商地址)                 |[官网地址](https://qunfaqi.github.io),使用教程:[视频教程](https://www.youtube.com/watch?v=t09ZIz3k-i4),自助购买: [https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)   | ¥199         |
 <div style="display: flex; justify-content: space-between;">
   <img src="https://i.imgur.com/9E65XRH.png" alt="彩虹群发器破解版免费" style="width: 30%;"/>
