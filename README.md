@@ -240,6 +240,8 @@ I am requesting for removal of account limitations.
 
 #### 群组管理
 
+视频教程：[https://youtu.be/R_14BCtvqPM](https://youtu.be/R_14BCtvqPM)
+
 | 名字                  | 链接                                                                 | 功能描述                                   |
 | :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | 按钮机器人      | [@xiunvanniubot](https://t.me/xiunvanniubot)       | 轻松实现按钮广告，方便引流推广挣钱，[视频教程](https://www.youtube.com/watch?v=B3KePS-6bSc)  |
