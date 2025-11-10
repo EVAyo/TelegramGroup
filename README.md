@@ -39,7 +39,7 @@
 | 搜索群⑤   | [@kuaisou20w](https://t.me/kuaisou20w)            | 可以在里面搜索你想要的一切   |
 | 色色搜索   | [@seseccavsese](https://t.me/seseccavsese)             | 可以在里面搜索你想要的一切   |
 | 👚AI去衣机器人	| [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)| 	黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模| 
-| **📱 全网最全低价流量卡** | [172手机流量卡代理](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务 |
+| **📱 全网最全低价流量卡** | [172手机流量卡代理](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
 | 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网第一个热瓜      |
 | Telegram电报僵尸粉                             | [@tgxiunv](https://t.me/tgxiunv)          | 1000人/¥10(1.4U)，稳定30天不掉落，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费  |
 | **免费 AWS 云服务器** | [aws.amazon.com](https://aws.amazon.com/cn/campaigns/free-tier?trk=5b281063-2f34-41ce-81e9-725090bee2f2&sc_channel=sm) | 免费试用6个月的亚马逊云科技服务器 |
