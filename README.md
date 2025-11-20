@@ -23,6 +23,7 @@
 | Super搜索       | [@Super](https://t.me/Super?start=ref-7202424896)                | 查找群组、频道、影视、音乐或机器人         |
 | 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_6294881820)                  | 发送词语即可搜索关联群组与频道资源，连续签到一周送3USDT        |
 | **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
+| **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费[@tgxiunv](https://t.me/tgxiunv)|
 | 币圈必备学习资料   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航，没有钱包的建议先申请一个交易所钱包、个人比较推荐[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)，币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)  |
 | WEB3撸空投  | [@tglukongtou](https://t.me/tglukongtou)             | 致力于为您提供每日更新的加密货币空投项目信息、保姆级撸空投教程、钱包安全指南与行业动态。空投官网：[web3.0xnav.com](web3.0xnav.com) twitter：[https://x.com/crypto_bxs](https://x.com/crypto_bxs)  |
 | 加密货币交流群  | [@jmhbgroup](https://t.me/jmhbgroup)             | 一起交流加密货币相关内容，官网：[www.0xnav.com](www.0xnav.com)   
@@ -42,7 +43,6 @@
 | 👚AI去衣机器人	| [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)| 	黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模| 
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
 | 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网第一个热瓜      |
-| Telegram电报僵尸粉                             | [@tgxiunv](https://t.me/tgxiunv)          | 1000人/¥10(1.4U)，稳定30天不掉落，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费  |
 | **免费 AWS 云服务器** | [aws.amazon.com](https://aws.amazon.com/cn/campaigns/free-tier?trk=5b281063-2f34-41ce-81e9-725090bee2f2&sc_channel=sm) | 免费试用6个月的亚马逊云科技服务器 |
 
 ### 曝光不良频道，请勿轻信(Scammer)
