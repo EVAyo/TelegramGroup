@@ -18,9 +18,9 @@
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | 极搜JiSo   | [@jiso](https://t.me/jiso?start=a_6294881820)                       |  输入关键词搜索群、频道、视频等资源，输入『凡人修仙传』试试 |
 | SOSO机器人  | [@soso](https://t.me/sosoo?start=a_6294881820)                     | 发送关键词来寻找群组、频道或视频，在名字后面添加SOSO，在机器人里面的赚钱可以白嫖0.5USDT         |
-| 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源，老牌搜索机器人超级索引邀请好友，参与五级拉新裂变赢USDT！新人使用直接领取1.88U！！(完成1次有效搜索) 👉[官方搜索群](https://t.me/+kt8DCh74ZmA0ZTc9)，搜索不留任何痕迹，放心搜索       |
 | 极搜JiSou  |  [@jisou](https://t.me/jisou?start=a_7352210715)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | Super搜索       | [@Super](https://t.me/Super?start=ref-7202424896)                | 查找群组、频道、影视、音乐或机器人         |
+| 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
 | 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_6294881820)                  | 发送词语即可搜索关联群组与频道资源，连续签到一周送3USDT        |
 | **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
 | **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费[@tgxiunv](https://t.me/tgxiunv)|
