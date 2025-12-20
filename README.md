@@ -32,10 +32,9 @@
 | 🚀免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点  |
 | 🌈彩虹群发器   | [https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
 | 波场TRX靓号购买789A便宜出   | [https://shop.tg10000.com](https://shop.tg10000.com/)            | 波场靓号地址789A、顺子豹子靓号，为了钱包安全记得要多签  |
-| 免费频道搬运机器人   |免费机器人[@xnby08bot](https://t.me/xnby08bot)            | 搭建同款机器人[@tgxiunv](https://t.me/tgxiunv) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容，搭建历史成交记录[@banyunchanel](https://t.me/banyunchanel) 不会使用可以找[@tgxiunv](https://t.me/tgxiunv)帮搬运，10U/一个频道，监听转发一个频道5u/月|
-| **频道监听转发机器人**   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听没有数量限制，[演示视频](https://www.youtube.com/watch?v=pqfTzfCFgxg) | 100U/[@tgxiunv](https://t.me/tgxiunv) |
-| **关键字听转机器人**   | 可以监听账号所有群组频道会话，检测到关键字立马机器人通知，点击可以跳转会话，[演示视频](https://www.youtube.com/watch?v=dB6d0IU5M9I)| 100U/[@tgxiunv](https://t.me/tgxiunv) |
-| 超级索引官方搜索群   | [https://t.me/+kt8DCh74ZmA0ZTc9](https://t.me/+kt8DCh74ZmA0ZTc9)            | 老牌搜索机器人，可以在里面搜索你想要的一切   |
+| 免费频道搬运机器人   |免费机器人[@xnby08bot](https://t.me/xnby08bot)支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)|搭建机器人可联系：[@tgxiunv](https://t.me/tgxiunv) |
+| **频道监听转发机器人**   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听无数量限制 👉 [使用教程](https://www.youtube.com/watch?v=pqfTzfCFgxg) | 搭建机器人可联系：[@tgxiunv](https://t.me/tgxiunv) |
+| **关键字听转机器人**   | 可以监听账号所有群组频道会话，检测到关键字立马机器人通知，点击可以跳转会话 👉 [使用教程](https://www.youtube.com/watch?v=dB6d0IU5M9I)| 搭建机器人可联系：[@tgxiunv](https://t.me/tgxiunv) |
 | 搜索群①   | [sousou20w](https://t.me/sousou20w)            | 可以在里面搜索你想要的一切   |
 | 搜索群②   | [@jiso5173](https://t.me/jiso5173)            | 可以在里面搜索你想要的一切   |
 | 搜索群③   | [@jisoubar](https://t.me/jisoubar)            | 极搜吧可以在里面搜索你想要的一切   |
