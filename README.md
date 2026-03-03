@@ -16,9 +16,9 @@
 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| JiSo机器人  |  [@jiSo](https://t.me/jiso?start=a_6294881820)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻，例如 凡人修仙传 |
 | SOSO机器人  | [@soso](https://t.me/sosoo?start=a_6294881820)                     | 发送关键词来寻找群组、频道或视频，在名字后面添加SOSO，在机器人里面的赚钱可以白嫖0.5USDT         |
 | 极搜JiSou  |  [@jisou](https://t.me/jisou2?start=a_7352210715)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| JiSo机器人  |  [@jiSo](https://t.me/jiso?start=a_6294881820)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻，例如 凡人修仙传 |
 | 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_6294881820)                  | 发送词语即可搜索关联群组与频道资源，连续签到一周送3USDT        |
 | **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
 | 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
@@ -52,6 +52,15 @@
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 |景福宫高端商务|[https://t.me/+7hOI03rX7YVmOWVl](https://t.me/+7hOI03rX7YVmOWVl)|真实性不清楚，请勿轻信上当|
 | 微信同城交友 | [https://t.me/+ZTtVz1cWzxEzYzVk](https://t.me/+ZTtVz1cWzxEzYzVk)|  骗子(Scammer)    |
+| 反差 | [https://t.me/+b1oqEUPvoSE5YTdk](https://t.me/+b1oqEUPvoSE5YTdk)|  骗子(Scammer)    |
+| 少萝 | [https://t.me/+crSY4fHTrhg4OGY0](https://t.me/+crSY4fHTrhg4OGY0)|  骗子(Scammer)    |
+| 女主播 | [https://t.me/+p-1a-TJyFhc4NWE0](https://t.me/+p-1a-TJyFhc4NWE0)|  骗子(Scammer)    |
+| 女大学生 | [https://t.me/+9juisuq5nJBhNGNk](https://t.me/+9juisuq5nJBhNGNk)|  骗子(Scammer)    |
+| 万人骑 | [https://t.me/+qUKDVCYUOgFiZmY1](https://t.me/+qUKDVCYUOgFiZmY1)|  骗子(Scammer)    |
+| 贫困少女 | [https://t.me/+WqwNYDy9TiFmNjVk](https://t.me/+WqwNYDy9TiFmNjVk)|  骗子(Scammer)    |
+| 围场少女 | [https://t.me/+OG4laFcGeW00ODdk](https://t.me/+OG4laFcGeW00ODdk)|  骗子(Scammer)    |
+| 临时情侣 | [https://t.me/+k4EkWp6n6_c4YzJk](https://t.me/+k4EkWp6n6_c4YzJk)|  骗子(Scammer)    |
+| 心动时刻 | [https://t.me/+ztiIRQ64r_ZmNzA8](https://t.me/+ztiIRQ64r_ZmNzA8)|  骗子(Scammer)    |
 
 ### 推广
 | 名字       | 链接                                                                 | 功能描述                                   |
