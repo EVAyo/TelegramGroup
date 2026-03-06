@@ -35,12 +35,12 @@
 | 💎电报哥电报会员手动充值   | [http://shop.tg10000.com](http://shop.tg10000.com)            | 低价开通电报会员，转账会查来源https://misttrack.io/aml_risks ，高风险地址充值过来不退还，也不会充值，购买之前请自行验证钱包地址，推荐使用币安、欧易等交易所直接购买👉 三个月：109元；👉 六个月：149元；👉 十二个月：259元，别的钱包转账不返还也不会充值，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费。充值通知群:[@tgviptongzhi](https://t.me/tgviptongzhi)|
 | 🌈彩虹群发器   | [https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
 | **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 [通知群](https://t.me/banyunchanel)|
-| 搜索群①   | [sousou20w](https://t.me/sousou20w)            | 可以在里面搜索你想要的一切   |
-| 搜索群②   | [@jiso5173](https://t.me/jiso5173)            | 可以在里面搜索你想要的一切   |
-| 搜索群③   | [@jisoubar](https://t.me/jisoubar)            | 极搜吧可以在里面搜索你想要的一切   |
-| 搜索群④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在里面搜索你想要的一切   |
-| 搜索群⑤   | [@kuaisou20w](https://t.me/kuaisou20w)            | 可以在里面搜索你想要的一切   |
-| 电报搜索群   | [@seseccavsese](https://t.me/seseccavsese)             | 可以在里面搜索你想要的一切   |
+| 搜索群①   | [sousou20w](https://t.me/sousou20w)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
+| 搜索群②   | [@jiso5173](https://t.me/jiso5173)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
+| 搜索群③   | [@jisoubar](https://t.me/jisoubar)            | 极搜吧可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
+| 搜索群④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
+| 搜索群⑤   | [@kuaisou20w](https://t.me/kuaisou20w)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
+| 电报搜索群   | [@seseccavsese](https://t.me/seseccavsese)             | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
 | 👚AI换装机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网第一个热瓜      |
 | **东南亚大全** | [@dongnanyadaquan](https://t.me/dongnanyadaquan) | 实时分享东南亚相关资讯 |
