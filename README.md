@@ -16,7 +16,6 @@
 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| **自助下单协议号机器人** | [@xieyihaoautobot](https://t.me/xieyihaoautobot) | 不想支付短信费用、或者是想低价购买电报账号的用户可自行下单 |
 | SOSO机器人  | [@soso](https://t.me/sosoo?start=a_6294881820)                     | 发送关键词来寻找群组、频道或视频，在名字后面添加SOSO，在机器人里面的赚钱可以白嫖0.5USDT         |
 | 极搜JiSou  |  [@jisou](https://t.me/jisou2?start=a_7352210715)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | JiSo机器人  |  [@jiSo](https://t.me/jiso?start=a_6294881820)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻，例如 凡人修仙传 |
@@ -45,6 +44,7 @@
 | 👚AI换装机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网第一个热瓜      |
 | **东南亚大全** | [@dongnanyadaquan](https://t.me/dongnanyadaquan) | 实时分享东南亚相关资讯 |
+| **自助下单协议号机器人** | [@xieyihaoautobot](https://t.me/xieyihaoautobot) | 不想支付短信费用、或者是想低价购买电报账号的用户可自行下单 |
 | 群组频道僵尸粉 | [https://faka.tg10000.com/](https://faka.tg10000.com/) | 会掉落1000人/¥10，永久不掉落1000人/¥25 |
 | **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费[@tgxiunv](https://t.me/tgxiunv)|
 
