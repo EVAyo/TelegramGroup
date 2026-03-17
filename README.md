@@ -67,6 +67,7 @@
 ### 推广
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
+|utou | [@utou](https://t.me/utou?start=5JRFMDIQ) |马年U投@utou空投计划 |
 |运营商大数据                             | [@jsdsj1](https://t.me/jsdsj1)          | 指定网站抓取，指定APP抓取，股票数据，贷款数据，助贷数据   |
 |debot                             | [@debot](https://debot.ai?ref=240523)          | 实时自动检测各个聪明人钱包的买入和卖出情况   |
 |gmgn.ai|[gmgn.ai](https://gmgn.ai/r/L2wVVjGF)| 注于meme币追踪与交易辅助 的平台，通过“聪明资金”监控、链上数据分析、复制交易和风险提示等功能帮助用户发掘潜力币种|
@@ -76,6 +77,7 @@
 |环球巴士                             | [https://universalbus.cn](https://universalbus.cn/?s=2aKuBEBSZB)          | Netflix、ChatGPT、Gemini、油管、Grok，专属9折优惠码：FANXIAN   |
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
 |不用赴港申请Wise香港账户 | [https://wise.com](https://wise.com/invite/dic/xfp7e3v) |可选择免费 Wise 借记卡或免手续费汇款机会 |
+
 
 ### 交易所提币或者是购买USDT、币圈撸空投
 **❗❗️️❗一旦注册完成就不再会有永久减免的机会，注册时务必使用邀请码❗️❗️❗️**
