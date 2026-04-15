@@ -50,6 +50,7 @@
 |淘宝好物分享频道|[@taobaohaowu](https://t.me/taobaohaowu)|每天分享淘宝精选折扣好物，[@折扣机器人](https://t.me/haowufenxiangbot)发送商品链接自动返回折扣后链接|
 | 群组频道僵尸粉 | [https://faka.tg10000.com/](https://faka.tg10000.com/) | 会掉落1000人/¥10，永久不掉落1000人/¥25 |
 | **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费[@tgxiunv](https://t.me/tgxiunv)|
+|Agent-Skills|[skills](https://github.com/itgoyo/awesome-claude-code-skills)|收集全网最热门的Agent-Skills项目|
 
 ### 曝光不良频道，请勿轻信(Expose harmful channels. Do not trust.)
 | 名字       | 链接                                                                 | 功能描述                                   |
