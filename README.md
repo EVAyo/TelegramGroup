@@ -24,7 +24,7 @@
 | 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
 | **搜啦** | [@soula](https://t.me/soula?start=a_7202424896) | 可以轻松搜索Telegram群组、频道，以及视频、音乐等各种资源 |
 | **🚀 免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
-| **🚀 机场推荐** | [@jichangtuijian](https://github.com/vpnnav/jichangtuijian) | 2026年最新低价高速机场推荐、机场大全、VPN导航、机场导航 |
+| **🚀 机场推荐** | [@jichang101](https://github.com/vpnnav/jichang101) | 2026年最新低价高速机场推荐、机场大全、VPN导航、机场导航 |
 | 赔钱机场      |       [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，18块1000G不限时流量 |
 |ClaudeCode中转站|[https://shop.xuedingtoken.com](https://shop.xuedingtoken.com/?dist=PGNXFC8B)|ClaudeCode满血版支持Opus 4.61元/1刀，24 小时发货|
 | ⚡️能量闪租⚡️     |       **`TGuXv6H1s84cmQZk7akvWHC6P789999999`**      | 🟩1笔USDT转帐能量: 3TRX </br> 🟨2笔USDT转帐能量: 6TRX |
