@@ -21,6 +21,7 @@
 | 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_629488182)                  | 发送词语即可搜索关联群组与频道资源，连续签到一周送3USDT        |
 | **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
 | **搜啦** | [@soula](https://t.me/soula?start=a_7202424896) | 可以轻松搜索Telegram群组、频道，以及视频、音乐等各种资源 |
+| 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
 | **SOSO 机器人** | [@soso](https://t.me/sosoo?start=a_6294881820) | 先改成中文用户名再搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT |
 | **🚀 免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
 | **🚀 机场推荐** | [@jichang101](https://github.com/vpnnav/jichang101) | 2026年最新低价高速机场推荐、机场大全、VPN导航、机场导航 |
