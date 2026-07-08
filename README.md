@@ -71,6 +71,7 @@
 |debot                             | [@debot](https://debot.ai?ref=240523)          | 实时自动检测各个聪明人钱包的买入和卖出情况   |
 |gmgn.ai|[gmgn.ai](https://gmgn.ai/r/L2wVVjGF)| 注于meme币追踪与交易辅助 的平台，通过“聪明资金”监控、链上数据分析、复制交易和风险提示等功能帮助用户发掘潜力币种|
 | hyperbot.network | [@hyperbot.network](https://hyperbot.network?ic=0xf6E03ed6740fBCF3255F07FD1758824D1eA32a15) | 由 AI 驱动的链上合约交易平台，聚合多个永续 DEX 的数据与执行，提供“鲸鱼追踪＋一键跟单”功能 |
+|AI导航站|[https://github.com/itgoyo/awesome-ai-nav](https://github.com/itgoyo/awesome-ai-nav)|AI工具集导航收录了国内外数百个不同类型的AI工具|
 |智谱GLM|[https://www.bigmodel.cn](https://www.bigmodel.cn/invite?icode=KNHlie%2Fn17uAYsTEOr7TH33uFJ1nZ0jLLgipQkYjpcA%3D)|新用户注册得 2000万 Tokens，新模型免费玩到爽！|
 |image2-prompt|[image2-prompt](https://github.com/itgoyo/awesome-gpt-image2-prompt)|🎨精选599个GPT-Image-2提示词，含效果图|
 |奈飞小铺                             | [https://ihezu.fans](https://ihezu.fans/uqhwcn)          | 网飞、Spotify、Apple Music、油管、微软365合租，专属9折优惠码：FANXIAN   |
