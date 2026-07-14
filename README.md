@@ -16,13 +16,13 @@
 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| **新币搜索** | [@xbso](https://t.me/xbso1?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
-| 极搜JiSou  |  [@jisou](https://t.me/jisou2?start=a_7202424896)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
-| 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_629488182)                  | 发送词语即可搜索关联群组与频道资源，连续签到一周送3USDT        |
-| **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
-| **搜啦** | [@soula](https://t.me/soula?start=a_7202424896) | 可以轻松搜索Telegram群组、频道，以及视频、音乐等各种资源 |
-| 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
-| **SOSO 机器人** | [@soso](https://t.me/sosoo?start=a_7202424896) | 先改成中文用户名再搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT |
+| **新币搜索** | [@xbso](https://telegram.me/xbso1?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
+| 极搜JiSou  |  [@jisou](https://telegram.me/jisou2?start=a_7202424896)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| 神马搜索(签到有收益)   | [@smss](https://telegram.me/smss?start=spread_629488182)                  | 发送词语即可搜索关联群组与频道资源，连续签到一周送3USDT        |
+| **快搜** | [@kuai](https://telegram.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
+| **搜啦** | [@soula](https://telegram.me/soula?start=a_7202424896) | 可以轻松搜索Telegram群组、频道，以及视频、音乐等各种资源 |
+| 超级索引  | [@CJSY](https://telegram.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
+| **SOSO 机器人** | [@soso](https://telegram.me/sosoo?start=a_7202424896) | 先改成中文用户名再搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT |
 | **🚀 免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
 | **🚀 机场推荐** | [@jichang101](https://github.com/vpnnav/jichang101) | 2026年最新低价高速机场推荐、机场大全、VPN导航、机场导航 |
 | 赔钱机场      |       [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，3块/月 |
@@ -31,26 +31,26 @@
 | 币圈必备学习资料   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航，没有钱包的建议先申请一个交易所钱包、个人比较推荐[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)，币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)  |
 | **欧易交易所**    |   [https://www.okx.com](https://www.okx.com/zh-hans/join/50253981)   | 邀请码：**50253981**，欧易交易所(减免30%手续费)OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
 | **币安交易所**    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免20%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
-| 加密货币交流群  | [@jmhbgroup](https://t.me/jmhbgroup)             | 一起交流加密货币相关内容，官网：[www.0xnav.com](www.0xnav.com)   
-| ⚡️能量机器人   | [@trxsosobot](https://t.me/trxsosobot)            |  电报导航、能量闪兑、能量租赁、地址监听、ID查询、实时U价、自助开通电报会员(全网最便宜) |
-| 🎧关键字监听机器人   | [@xiunvkwbot](https://t.me/xiunvkwbot)            | ✅ 再也不用担心没有精准客户了🎧 我们监听了上千个群中用户的搜索记录🔥可以为您实时匹配合适的用户|
-| 💎电报会员机器人   | [@tg2vipbot](https://t.me/tg2vipbot)或[@vip2tgbot](https://t.me/vip2tgbot)| 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人。 → [通知群](https://t.me/nenglianghuiyuan)|
-| 💎电报哥电报会员手动充值   | [http://shop.tg10000.com](http://shop.tg10000.com)            | 低价开通电报会员，转账会查来源https://misttrack.io/aml_risks ，高风险地址充值过来不退还，也不会充值，购买之前请自行验证钱包地址，推荐使用币安、欧易等交易所直接购买👉 三个月：109元；👉 六个月：149元；👉 十二个月：259元，别的钱包转账不返还也不会充值，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费。充值通知群:[@tgviptongzhi](https://t.me/tgviptongzhi)|
+| 加密货币交流群  | [@jmhbgroup](https://telegram.me/jmhbgroup)             | 一起交流加密货币相关内容，官网：[www.0xnav.com](www.0xnav.com)   
+| ⚡️能量机器人   | [@trxsosobot](https://telegram.me/trxsosobot)            |  电报导航、能量闪兑、能量租赁、地址监听、ID查询、实时U价、自助开通电报会员(全网最便宜) |
+| 🎧关键字监听机器人   | [@xiunvkwbot](https://telegram.me/xiunvkwbot)            | ✅ 再也不用担心没有精准客户了🎧 我们监听了上千个群中用户的搜索记录🔥可以为您实时匹配合适的用户|
+| 💎电报会员机器人   | [@tg2vipbot](https://telegram.me/tg2vipbot)或[@vip2tgbot](https://telegram.me/vip2tgbot)| 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人。 → [通知群](https://telegram.me/nenglianghuiyuan)|
+| 💎电报哥电报会员手动充值   | [http://shop.tg10000.com](http://shop.tg10000.com)            | 低价开通电报会员，转账会查来源https://misttrack.io/aml_risks ，高风险地址充值过来不退还，也不会充值，购买之前请自行验证钱包地址，推荐使用币安、欧易等交易所直接购买👉 三个月：109元；👉 六个月：149元；👉 十二个月：259元，别的钱包转账不返还也不会充值，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费。充值通知群:[@tgviptongzhi](https://telegram.me/tgviptongzhi)|
 | 🌈彩虹群发器   | [https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
-| **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 [通知群](https://t.me/xiunvyewu)|
-| 搜索群①   | [sousou20w](https://t.me/sousou20w)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
-| 搜索群②   | [@jiso5173](https://t.me/jiso5173)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
-| 搜索群③   | [@jisoubar](https://t.me/jisoubar)            | 极搜吧可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
-| 搜索群④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
-| 素材大师 | [@sucaidashi](https://t.me/sucaidashi) | 精修的朋友圈，出门在外身份都是自己给的 |
-| 电报搜索群   | [@seseccavsese](https://t.me/seseccavsese)             | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
-| 👚AI换装机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=NJOTH8D6MF7PYIL8)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
-| 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网第一个热瓜      |
-| **东南亚大全** | [@dongnanyadaquan](https://t.me/dongnanyadaquan) | 实时分享东南亚相关资讯 |
-| **科技第一线** | [@kejidiyixian](https://t.me/kejidiyixian) | 第一时间分享全网最热门科技新闻 |
-|淘宝好物分享频道|[@taobaohaowu](https://t.me/taobaohaowu)|每天分享淘宝精选折扣好物，[@折扣机器人](https://t.me/haowufenxiangbot)发送商品链接自动返回折扣后链接|
+| **免费频道搬运机器人** | [@xnby08bot](https://telegram.me/xnby08bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 [通知群](https://telegram.me/xiunvyewu)|
+| 搜索群①   | [sousou20w](https://telegram.me/sousou20w)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
+| 搜索群②   | [@jiso5173](https://telegram.me/jiso5173)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
+| 搜索群③   | [@jisoubar](https://telegram.me/jisoubar)            | 极搜吧可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
+| 搜索群④   | [@sepiansousuo](https://telegram.me/sepiansousuo)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
+| 素材大师 | [@sucaidashi](https://telegram.me/sucaidashi) | 精修的朋友圈，出门在外身份都是自己给的 |
+| 电报搜索群   | [@seseccavsese](https://telegram.me/seseccavsese)             | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
+| 👚AI换装机器人  | [@Xai1314bot](https://telegram.me/Xai1314bot?start=NJOTH8D6MF7PYIL8)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
+| 🍉 吃瓜无限 | [https://telegram.me/chiguawuxian](https://telegram.me/chiguawuxian) | 实时分享全网第一个热瓜      |
+| **东南亚大全** | [@dongnanyadaquan](https://telegram.me/dongnanyadaquan) | 实时分享东南亚相关资讯 |
+| **科技第一线** | [@kejidiyixian](https://telegram.me/kejidiyixian) | 第一时间分享全网最热门科技新闻 |
+|淘宝好物分享频道|[@taobaohaowu](https://telegram.me/taobaohaowu)|每天分享淘宝精选折扣好物，[@折扣机器人](https://telegram.me/haowufenxiangbot)发送商品链接自动返回折扣后链接|
 | 群组频道僵尸粉 | [https://faka.tg10000.com/](https://faka.tg10000.com/) | 会掉落1000人/¥10，永久不掉落1000人/¥25 |
-| **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费[@tgxiunv](https://t.me/tgxiunv)|
+| **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费[@tgxiunv](https://telegram.me/tgxiunv)|
 | **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 专注于三大运营商免费流量卡的推广，所有产品均由运营商严格审核，品质有保障。热销19元192G流量卡，频道:[@tgsim172](https://t.me/tgsim172) |
 | **英语口语学习** | [https://www.talk915.com](https://www.talk915.com/t/jE326zzq) | 领取在线外教一对一试听课程 |
 
