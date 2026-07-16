@@ -25,6 +25,7 @@
 | **SOSO 机器人** | [@soso](https://t.me/sosoo?start=a_7202424896) | 先改成中文用户名再搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT |
 | **🚀 免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
 | **🚀 机场推荐** | [@jichang101](https://github.com/vpnnav/jichang101) | 2026年最新低价高速机场推荐、机场大全、VPN导航、机场导航 |
+| **🤖 AI导航站** | [https://ai.0xnav.com/](https://ai.0xnav.com/) | AI工具集官网| 10000+ AI工具集合，国内外AI工具集导航大全 |
 | 赔钱机场      |       [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，3块/月 |
 | ⚡️能量闪租⚡️     |       **`TGuXv6H1s84cmQZk7akvWHC6P789999999`**      | 🟩1笔USDT转帐能量: 3TRX </br> 🟨2笔USDT转帐能量: 6TRX |
 | ⚡️TRX闪兑     |       **`TY4etzSftahyH5DYDMq5kDuPs93VVVVVVV`**      | TRX-USDT24小时自动兑换，1U起兑 |
