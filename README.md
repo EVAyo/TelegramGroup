@@ -56,20 +56,6 @@
 |💰电报Telegram如何赚钱|[telegram-money-making](https://github.com/itgoyo/telegram-money-making)|Telegram 副业指南：如何利用频道、机器人和跨境信息差获得收入|
 | **英语口语学习** | [https://www.talk915.com](https://www.talk915.com/t/jE326zzq) | 领取在线外教一对一试听课程 |
 
-<a id="曝光不良频道"></a>
-### 曝光不良频道，请勿轻信(Expose harmful channels. Do not trust.)
-| 名字       | 链接                                                                 | 功能描述                                   |
-| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-|景福宫高端商务|[https://t.me/+7hOI03rX7YVmOWVl](https://t.me/+7hOI03rX7YVmOWVl)|真实性不清楚，请勿轻信上当|
-| 反差 | [https://t.me/+F53z4y6QyXMxNDg8](https://t.me/+F53z4y6QyXMxNDg8)|  骗子(Scammer)    |
-| 少萝 | [https://t.me/+DmUrNNfNpPIxY2Rl](https://t.me/+DmUrNNfNpPIxY2Rl)|  骗子(Scammer)    |
-| 女主播 | [https://t.me/+p-1a-TJyFhc4NWE0](https://t.me/+p-1a-TJyFhc4NWE0)|  骗子(Scammer)    |
-| 女大学生 | [https://t.me/+9juisuq5nJBhNGNk](https://t.me/+9juisuq5nJBhNGNk)|  骗子(Scammer)    |
-| 贫困少女 | [https://t.me/+ankjvKJY36JiMzc0](https://t.me/+ankjvKJY36JiMzc0)|  骗子(Scammer)    |
-| 频道1 | [https://t.me/+Pl1mcJYcz6o4NGI0](https://t.me/+Pl1mcJYcz6o4NGI0)|  骗子(Scammer)    |
-| 频道2 | [https://t.me/+JxKCJs0FzEU3MjZk](https://t.me/+JxKCJs0FzEU3MjZk)|  骗子(Scammer)    |
-| 频道3 | [https://t.me/+xzjOYyuJbNIyYzFk](https://t.me/+xzjOYyuJbNIyYzFk)|  骗子(Scammer)    |
-
 ### 推广
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
